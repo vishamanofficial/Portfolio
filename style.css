@@ -306,13 +306,13 @@ body {
     margin-left: 15px;
     opacity: 0.6;
     line-height: 1;
-    font-size: 12.5vw;
+    font-size: 15vw;
     text-transform: uppercase;
     font-weight: 900;
   }
 
   #heading #secondh1 {
-    margin-left: 100px;
+    margin-left: 40px;
   }
   #herofooter {
     bottom: 10%;
