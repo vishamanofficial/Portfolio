@@ -334,7 +334,10 @@ body {
     align-items: center;
     justify-content: right;
     color: #fff;
-    padding: 100px 50px 50px 0px;
+    padding: 50px 50px 50px 0px;
+  }
+  .elem img {
+    display: none;
   }
 
   #about {
