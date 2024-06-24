@@ -326,7 +326,7 @@ body {
     color: #fff;
     text-transform: uppercase;
     text-decoration: none;
-    font-size: 10px;
+    font-size: 13px;
   }
 
   #projecttitle {
@@ -385,6 +385,10 @@ body {
 
   #footerleft {
     padding-top: 10px;
+    font-size: 13px;
+  }
+  .display-time {
+    font-weight: normal;
   }
 
   #footerright {
