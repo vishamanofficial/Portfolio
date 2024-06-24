@@ -294,6 +294,10 @@ body {
 }
 
 @media only screen and (max-width: 576px) {
+  #minicircle {
+    display: none;
+  }
+
   #nav a {
     font-size: 4vw;
   }
@@ -358,7 +362,10 @@ body {
     text-decoration: none;
     color: #fff;
   }
-
+  #textabout {
+    width: 23rem;
+    padding-left: 10px;
+  }
   #footer {
     color: #fff;
     background-color: black;
@@ -378,6 +385,7 @@ body {
     display: flex;
     justify-content: space-between;
     margin-bottom: 0px;
+    gap: 20px;
   }
   #footerright a {
     font-weight: 700;
