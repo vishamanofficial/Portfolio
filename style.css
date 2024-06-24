@@ -303,7 +303,7 @@ body {
   }
 
   #heading {
-    margin-top: 100px;
+    margin-top: 200px;
   }
 
   #heading h1 {
@@ -318,7 +318,9 @@ body {
   #heading #secondh1 {
     margin-left: 100px;
   }
-
+  #herofooter {
+    bottom: 7%;
+  }
   #herofooter a {
     color: #fff;
     text-transform: uppercase;
