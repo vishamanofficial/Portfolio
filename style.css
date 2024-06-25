@@ -55,8 +55,12 @@ body {
 
 #nav a {
   text-decoration: none;
-  font-size: 3vw;
+  font-size: 2.5vw;
   color: #fff;
+}
+#nav a span {
+  color: red;
+  letter-spacing: 2px;
 }
 
 #heading {
